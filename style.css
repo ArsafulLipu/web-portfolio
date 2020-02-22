@@ -3,10 +3,10 @@ body{
 }
 h1{
     font-size: 50px;
-    font-family: 'Lacquer', sans-serif;
+
 }
 .name-highlight{
-    color: blue;
+    color:rgb(252, 0, 0);
 }
 .half-width{
     width: 40%;
