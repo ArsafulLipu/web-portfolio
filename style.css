@@ -11,6 +11,7 @@ h2{
 }
 p{
     color: dimgray;
+    font-family: 'Roboto Slab';
 }
 .orange-highlight{
     color:rgb(252, 0, 0);
